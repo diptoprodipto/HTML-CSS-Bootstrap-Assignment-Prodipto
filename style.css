@@ -1,0 +1,87 @@
+.banner{
+    background-image: url('images/banner.jpg');
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.main{
+    margin-top: 40px;
+}
+
+.top-left{
+    background-image: url('images/1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px; 
+}
+
+.top-middle{
+    background-image: url('images/2.1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px; 
+}
+
+/* .top-right{
+    background-image: url('images/banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px; 
+} */
+
+.top-right{
+    border-radius: 5px; 
+}
+
+.bottom-one{
+    background-image: url('images/london.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.bottom-two{
+    background-image: url('images/singapore.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.bottom-three{
+    background-image: url('images/russia.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.bottom-four{
+    background-image: url('images/china.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+label{
+    color: #51CD92;
+}
